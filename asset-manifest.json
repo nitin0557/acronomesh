@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/acronomesh/static/css/main.00edcfdd.css",
+    "main.js": "/acronomesh/static/js/main.afeaf754.js",
+    "static/js/453.ddc2a765.chunk.js": "/acronomesh/static/js/453.ddc2a765.chunk.js",
+    "static/media/bottlein.png": "/acronomesh/static/media/bottlein.8a49faf300a1a5aefa00.png",
+    "static/media/bottleout.png": "/acronomesh/static/media/bottleout.3cc69c3f1c13de242482.png",
+    "index.html": "/acronomesh/index.html",
+    "main.00edcfdd.css.map": "/acronomesh/static/css/main.00edcfdd.css.map",
+    "main.afeaf754.js.map": "/acronomesh/static/js/main.afeaf754.js.map",
+    "453.ddc2a765.chunk.js.map": "/acronomesh/static/js/453.ddc2a765.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00edcfdd.css",
+    "static/js/main.afeaf754.js"
+  ]
+}
